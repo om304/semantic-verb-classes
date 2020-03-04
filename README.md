@@ -10,4 +10,4 @@ The file contains multiple sheets, each containing semantic verb classes collect
 
 License
 ------
-All data on this page is made available under the Creative Commons Attribution (CC BY) license
+All data on this page are made available under the Creative Commons Attribution (CC BY) license
